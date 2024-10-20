@@ -1,0 +1,6 @@
+target
+.gradle
+.mvn
+build
+gradle
+vcr.yml
